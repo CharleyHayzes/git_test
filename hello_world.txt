@@ -1,1 +1,3 @@
 this is charley hayzes' first git project!
+
+adding text for practice
